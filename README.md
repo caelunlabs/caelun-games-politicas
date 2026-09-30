@@ -5,6 +5,7 @@ Páginas públicas das políticas de privacidade dos jogos da Caelun, servidas p
 | jogo | página |
 |---|---|
 | Kito's Play | `kitos-play/privacidade/` |
+| BardicShift | `bardicshift/privacidade/` |
 
 ## Por que este repositório existe
 
